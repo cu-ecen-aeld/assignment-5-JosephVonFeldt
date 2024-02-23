@@ -8,7 +8,7 @@
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
 #TODO: Update hash if changes are made
 #AESD_ASSIGNMENTS_VERSION = 8392399fe1f2e90f8caafc13eccd11ac4bb54cf5
-AESD_ASSIGNMENTS_VERSION = cadfbfe30f1799e237d67d41b38c6eacc38a1b4c
+AESD_ASSIGNMENTS_VERSION = 6571c379a2be85223dfa1db7f6b738e99fc239fe
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
